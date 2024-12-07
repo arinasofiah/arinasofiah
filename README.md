@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arina Sofiah
+Hi, my name is Arina Sofiah ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
 Computer Science Student
@@ -36,10 +36,4 @@ I’m currently a first year bachelor of computer science (data engineering) stu
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/arinasofiah/arinasofiah" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arinasofiah&repo=arinasofiah&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/arinasofiah"><img src="https://github-readme-stats.vercel.app/api?username=arinasofiah&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="arinasofiah's GitHub stats" /></a>
+<div width="100%" align="center"><a href="https://github.com/arinasofiah/arinasofiah" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arinasofiah&repo=arinasofiah&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
